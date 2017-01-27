@@ -81,7 +81,7 @@ nav{
 #titletext{
 	text-decoration:none;
 }
-@media only screen and (max-width:560px){
+@media only screen and (max-width:800px){
 	nav{
 		left:0;
 		top:0%;
